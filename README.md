@@ -7,7 +7,7 @@
 
 ## Pre-work (not mandatory)
   - Complete the Salesforce trails which will get you started with the basics of deploying apps on Heroku at https://trailhead.salesforce.com/en/trails/heroku_enterprise
-
+<a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 # App-Innovation-Workshop - Exercises
 What will you be deploying? 
